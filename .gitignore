@@ -1,0 +1,8 @@
+tmp/**
+__pycache__
+
+
+repository_report.html
+open-prs-report-all.md
+
+.env
